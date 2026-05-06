@@ -1,0 +1,6 @@
+{
+  "name": "EcoVista: Check Your Air",
+  "description": "Know if the air around you is safe to breathe. EcoVista provides simple, clear air quality alerts and health advice for your neighborhood.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
